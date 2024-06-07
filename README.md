@@ -12,6 +12,11 @@ Native r and r python sas sql calculate the standard deviation of all columns
           3 sas sgl
           4 python sql (panda sql does not support the standard devation you need to link ro a c dll)
 
+    github                                                                                                               
+    https://tinyurl.com/f35k9zwu                                                                                         
+    https://github.com/rogerjdeangelis/utl-native-r-and-r-python-sas-sql-calculate-the-standard-deviation-of-all-columns 
+
+
     Missing sql functions in python pandasql (r has them built in)
     For python you need to link to c:/temp/libsqlitefunctions.dll in
     https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
